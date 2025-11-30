@@ -351,21 +351,67 @@ internal static class Resources
                 "85AD3B263735871F4606EF4AB98B9BBC", // Koaloader v3.0.2
                 "4207947D0452C1E33428ED098DC23D26", // Koaloader v3.0.2
                 "BDD0DCAE7A5FBBBA0D8B857AC34BD43C", // Koaloader v3.0.2
-                "A0933D21552CC5C835416DFD7604548D" // Koaloader v3.0.2
+                "A0933D21552CC5C835416DFD7604548D", // Koaloader v3.0.2
+                "51c6Bf6dA8c9B2e80249A3f74f5f2836", // Koaloader v3.0.4 
+                "B544f93ffc46Afd8e5Ac3fBA7930dB58", // Koaloader v3.0.4 
+                "69A71B497A01147744cd204810ABBAd2", // Koaloader v3.0.4 
+                "fA736Ac428269Ade76f8795f8104fA39", // Koaloader v3.0.4 
+                "2eAA174056BfA68AA22c43cBe6388329", // Koaloader v3.0.4 
+                "fAc5739Af157d3245def458d6304d902", // Koaloader v3.0.4 
+                "6A11f1e24cBd0518eddeB28A7237ce87", // Koaloader v3.0.4 
+                "ABdd0483d79276362A66e48869cfcf6B", // Koaloader v3.0.4 
+                "0286878e70A95c6AB93f8e2A944501cd", // Koaloader v3.0.4 
+                "1Bc45223e417d4Ae2A95f46dB71ddd8B", // Koaloader v3.0.4 
+                "9dcB246925667f0c34B306d356Aee8dA", // Koaloader v3.0.4 
+                "d982f9e2066877c26193109Bd0c90815", // Koaloader v3.0.4 
+                "3d7Afd5BAed9BB023A8BAB8715857c45", // Koaloader v3.0.4 
+                "c74Ad1d21dfd141A91B9699dB298ffB3", // Koaloader v3.0.4 
+                "f4440A71d0f5d49c1ecc860de9e3eee6", // Koaloader v3.0.4 
+                "88A12c9B394c5ec2A72BdAe57f10A814", // Koaloader v3.0.4 
+                "0e478B8AAcdB2A8ed6038707cfBfc8e4", // Koaloader v3.0.4 
+                "7eB835e0B131d9A4f3283d15290A16cf", // Koaloader v3.0.4 
+                "2Ac92e07dd269c5027A13e3f80c4A89A", // Koaloader v3.0.4 
+                "126de0c021297f826f91176962B2edf5", // Koaloader v3.0.4 
+                "7344e1f82B8e8Ac08cc135f3858A1c59", // Koaloader v3.0.4 
+                "708A3AA98c53cc1e23104544f54c6c22", // Koaloader v3.0.4 
+                "A5eAc4fd9d174edB8c8570A6fc018254", // Koaloader v3.0.4 
+                "9e6f063f0966c6848e7c15214Acd8774", // Koaloader v3.0.4 
+                "20143e97cA1B2B9f729f84fdee1c0ce4", // Koaloader v3.0.4 
+                "383025e324dA842c9f6499e39B1AAB5B", // Koaloader v3.0.4 
+                "e3f2e6e347BA407d189c8e3dAc58178c", // Koaloader v3.0.4 
+                "ff540d977c0dd9e32d9d452824ecdB96", // Koaloader v3.0.4 
+                "A8AABf2Bc2711BA73f9BAfec9c9d848d", // Koaloader v3.0.4 
+                "46629A0974efff141c7295B4204f5B60", // Koaloader v3.0.4 
+                "045f9154B561705A88dB2f1c6e44d412", // Koaloader v3.0.4 
+                "d9971Ae010AA8262Aed30A4376cf32B2", // Koaloader v3.0.4 
+                "614119A6452f1ec5B855BBBf3d66d6de", // Koaloader v3.0.4 
+                "77e8e2f05AA94d5AB03f5de506d6B639", // Koaloader v3.0.4 
+                "c5Bd334fA0dddd7e5A6fBdBf836c2fe5", // Koaloader v3.0.4 
+                "615A6A863A2f8876A1B55B09f5363A03", // Koaloader v3.0.4 
+                "4ece60B4eAc0461Bf33Af0A6359d3679", // Koaloader v3.0.4 
+                "894f5d28eeA75A1f0B8172d0B06fA40e", // Koaloader v3.0.4 
+                "73f4d0f5c8B3033A04660cd2B27646fc", // Koaloader v3.0.4 
+                "f90eB4c46fB1B7ecA985c1cA245f9cBA", // Koaloader v3.0.4 
+                "458Ac3e7dd29824A418d23A2B09cc23A", // Koaloader v3.0.4 
+                "6dd915cf4fe47037f9BcBAce2cd36115", // Koaloader v3.0.4 
+                "6A6e803c1c8cc93902166BA949fBff5A", // Koaloader v3.0.4 
+                "c73B276eBA0B3eBB4ecf0d4Bed5e18e6" // Koaloader v3.0.4 
             }
         },
         {
             ResourceIdentifier.EpicOnlineServices32, new List<string>
             {
                 "069A57B1834A960193D2AD6B96926D70", // ScreamAPI v3.0.0
-                "E2FB3A4A9583FDC215832E5F935E4440" // ScreamAPI v3.0.1
+                "E2FB3A4A9583FDC215832E5F935E4440", // ScreamAPI v3.0.1
+				"F2C1A6B3EF73ED14E810851DBF418453" // ScreamAPI v4.0.0 
             }
         },
         {
             ResourceIdentifier.EpicOnlineServices64, new List<string>
             {
                 "0D62E57139F1A64F807A9934946A9474", // ScreamAPI v3.0.0
-                "3875C7B735EE80C23239CC4749FDCBE6" // ScreamAPI v3.0.1
+                "3875C7B735EE80C23239CC4749FDCBE6", // ScreamAPI v3.0.1
+				"2F98D62283AA024CBD756921B9533489" // ScreamAPI v4.0.0 
             }
         },
         {
@@ -376,7 +422,8 @@ internal static class Resources
                 "973AB1632B747D4BF3B2666F32E34327", // SmokeAPI v1.0.1
                 "C7E41F569FC6A347D67D2BFB2BD10F25", // SmokeAPI v1.0.2
                 "F9E7D5B248B86D1C2F2F2905A9F37755", // SmokeAPI v1.0.3
-                "FD9032CCF73E3A4D7E187F35388BD569" // SmokeAPI v2.0.0-rc01
+                "FD9032CCF73E3A4D7E187F35388BD569", // SmokeAPI v2.0.0-rc01
+				"E833ACE855245D5939EE36FF25D8B4A4" // SmokeAPI v4.0.0 
             }
         },
         {
@@ -387,7 +434,8 @@ internal static class Resources
                 "D077737B9979D32458AC938A2978FA3C", // SmokeAPI v1.0.1
                 "49122A2E2E51CBB0AE5E1D59B280E4CD", // SmokeAPI v1.0.2
                 "13F3E9476116F7670E21365A400357AC", // SmokeAPI v1.0.3
-                "151D09637E54A6DF281EAC5A9C484616" // SmokeAPI v2.0.0-rc01
+                "151D09637E54A6DF281EAC5A9C484616", // SmokeAPI v2.0.0-rc01
+				"22DD39B16D3C10FDB044FDCB1BAE63B8" // SmokeAPI v4.0.0 
             }
         },
         {
